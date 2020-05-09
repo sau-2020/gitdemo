@@ -1,4 +1,4 @@
 #! /bin/bash
 PASSWORD=$(date +%s)
 echo "${PASSWORD}"
-#looo
+echo "Helooo"
